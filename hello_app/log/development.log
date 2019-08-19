@@ -1,0 +1,14 @@
+Started GET "/" for ::1 at 2019-08-17 15:24:36 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Rendering vendor/bundle/ruby/2.5.0/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered vendor/bundle/ruby/2.5.0/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb (2.4ms)
+Completed 200 OK in 138ms (Views: 6.9ms)
+
+
+Started GET "/" for ::1 at 2019-08-17 15:33:44 +0900
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.0ms)
+Completed 200 OK in 122ms (Views: 3.5ms)
+
+
